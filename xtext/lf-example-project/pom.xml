@@ -83,7 +83,7 @@
 				<configuration>
 					<languages>
 						<language>
-							<setup>org.icyphy.linguafranca.LinguaFrancaStandaloneSetup</setup>
+							<setup>org.icyphy.LinguaFrancaStandaloneSetup</setup>
 							<outputConfigurations>
 								<outputConfiguration>
 									<outputDirectory>src/main/generated-sources/xtend/</outputDirectory>
