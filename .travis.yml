@@ -3,7 +3,7 @@
 # Based on http://muelder.blogspot.com/2015/08/building-eclipse-plugins-with-maven.html
 #
 
-dist: bionic
+dist: xenial
 sudo: false  
 language: java    
 cache:  
